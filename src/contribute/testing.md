@@ -51,7 +51,8 @@ details on those testing types.
    </td>
    <td>DoFnTester
    </td>
-   <td><a href="https://github.com/apache/beam/blob/master/sdks/java/io/google-cloud-platform/src/test/java/org/apache/beam/sdk/io/gcp/bigquery/BigQueryIOTest.java#L1325">BigQueryIOTest</a>
+   <td><a
+   href="https://github.com/apache/beam/blob/v2.4.0/examples/java/src/test/java/org/apache/beam/examples/cookbook/BigQueryTornadoesTest.java#L39">BigQueryTornadoesTest</a>
    </td>
    <td>Unit
    </td>
